@@ -16,7 +16,7 @@ import static org.junit.Assert.*;
  * @author Melina
  */
 public class cotizacionTest {
-    
+    static Conversor instance = new Conversor();
     
     public cotizacionTest() {
     }
@@ -25,7 +25,7 @@ public class cotizacionTest {
     @Test(expected = ArithmeticException.class)
     public void cotizarCero(){
         
-        float result = 2 / 0;
+        instance.calcularCotizacion(2, 0);
         
     }
 

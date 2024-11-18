@@ -47,7 +47,10 @@ public class Conversor {
         return Math.round((dolares * cotizacion)*100.0f)/100.0f;
     }
     
-    public float calcularCotizacion(float pesos, float dolares){
+    public float calcularCotizacion(float pesos, float dolares) throws ArithmeticException{
+        if (dolares==0){
+                throw new ArithmeticException();
+            }
         return Math.round((pesos / dolares)*100.0f)/100.0f;
     }
     

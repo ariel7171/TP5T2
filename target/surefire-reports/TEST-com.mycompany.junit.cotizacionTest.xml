@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.mycompany.junit.cotizacionTest" time="0.018" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.mycompany.junit.cotizacionTest" time="0.019" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\Melina\Documents\NetBeansProjects\JUnit\target\test-classes;C:\Users\Melina\Documents\NetBeansProjects\JUnit\target\classes;C:\Users\Melina\.m2\repository\junit\junit\4.0\junit-4.0.jar;"/>
+    <property name="java.class.path" value="G:\Documentos\carpetas\GitHub\TP5T2\target\test-classes;G:\Documentos\carpetas\GitHub\TP5T2\target\classes;C:\Users\Melina\.m2\repository\junit\junit\4.0\junit-4.0.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,10 +15,10 @@
     <property name="user.country" value="AR"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\Melina\AppData\Local\Temp\surefire17385349980005403511\surefirebooter-20241114225750639_3.jar C:\Users\Melina\AppData\Local\Temp\surefire17385349980005403511 2024-11-14T22-57-50_491-jvmRun1 surefire-20241114225750639_1tmp surefire_0-20241114225750639_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Melina\AppData\Local\Temp\surefire10900983103773616086\surefirebooter-20241118203909277_3.jar C:\Users\Melina\AppData\Local\Temp\surefire10900983103773616086 2024-11-18T20-39-09_131-jvmRun1 surefire-20241118203909277_1tmp surefire_0-20241118203909277_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="com.mycompany.junit.cotizacionTest"/>
-    <property name="surefire.test.class.path" value="C:\Users\Melina\Documents\NetBeansProjects\JUnit\target\test-classes;C:\Users\Melina\Documents\NetBeansProjects\JUnit\target\classes;C:\Users\Melina\.m2\repository\junit\junit\4.0\junit-4.0.jar;"/>
+    <property name="surefire.test.class.path" value="G:\Documentos\carpetas\GitHub\TP5T2\target\test-classes;G:\Documentos\carpetas\GitHub\TP5T2\target\classes;C:\Users\Melina\.m2\repository\junit\junit\4.0\junit-4.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Melina"/>
     <property name="user.language" value="es"/>
@@ -26,12 +26,12 @@
     <property name="java.version.date" value="2023-10-17"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\Melina\Documents\NetBeansProjects\JUnit"/>
+    <property name="basedir" value="G:\Documentos\carpetas\GitHub\TP5T2"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Melina\AppData\Local\Temp\surefire17385349980005403511\surefirebooter-20241114225750639_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Melina\AppData\Local\Temp\surefire10900983103773616086\surefirebooter-20241118203909277_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.9+11-LTS-201"/>
@@ -46,7 +46,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\Melina\AppData\Local\Temp\"/>
     <property name="java.version" value="17.0.9"/>
-    <property name="user.dir" value="C:\Users\Melina\Documents\NetBeansProjects\JUnit"/>
+    <property name="user.dir" value="G:\Documentos\carpetas\GitHub\TP5T2"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
